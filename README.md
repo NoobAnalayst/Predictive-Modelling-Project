@@ -44,7 +44,7 @@ freeswap - Number of disk blocks available for page swapping.<br>
 ------------------------
 usr - Portion of time (%) that cpus run in user mode<br>
 
-Questions For Problem 1 :----- 
+**Questions For Problem 1 :----- 
 
 1.1 Read the data and do exploratory data analysis. Describe the data briefly. (Check the Data
 types, shape, EDA, 5 point summary). Perform Univariate, Bivariate Analysis, Multivariate
@@ -91,7 +91,7 @@ analysis) and CART.<br>
 2.3 Performance Metrics: Check the performance of Predictions on Train and Test sets using
 Accuracy, Confusion Matrix, Plot ROC curve and get ROC_AUC score for each model Final Model:
 Compare Both the models and write inference which model is best/optimized.<br>
-2.4 Inference: Basis on these predictions, what are the insights and recommendations.<br>
+2.4 Inference: Basis on these predictions, what are the insights and recommendations.<br>**
 
 
 
